@@ -32,7 +32,7 @@ namespace Angular_mvc5
                       "~/dist/main-es5.*"));
 
             bundles.Add(new StyleBundle("~/Content/Styles").Include(
-                      "~/dist/style.*"));
+                      "~/dist/styles.*"));
         }
     }
 }
