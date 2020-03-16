@@ -3,7 +3,7 @@ Angular + ASP MVC 5
 
 Bước 1: Create project ASP MVC 5
 
-Bước 2: Opent project ASP MVC 5, Create Project Angular 
+Bước 2: Open project ASP MVC 5, Create Project Angular 
 ```csharp
 npm install -g @angular/cli
 ng new ClientApp
